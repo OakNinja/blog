@@ -1,0 +1,8 @@
+---
+layout: post
+title: "A blog"
+date: 2025-11-15 21:40:50 +0100
+categories: blog
+---
+
+I missed having a blog. We should do more blogs. We should do more sharing. We should do more things without a bigger purpose than calming curiosity and finding new exciting things to learn and share.
