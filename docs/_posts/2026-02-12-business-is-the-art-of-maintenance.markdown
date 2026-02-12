@@ -2,7 +2,7 @@
 layout: post
 title: "Business is the Art of Maintenance"
 date: 2026-02-12 11:43:11 +0100
-categories: shower thoughts
+categories: shower-thoughts
 ---
 
 The cost of running a business is the maintenance of the original idea behind the actual start of the company. The value of the company is that continuous maintenance. The cost of starting the business is small, and the cost of having the idea is zero. If the idea was good enough, the business will go into maintenance mode up until it's sold, merged or liquidated. 
